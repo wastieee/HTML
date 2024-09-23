@@ -1,0 +1,12 @@
+
+#idDiv{
+    background-color: brown;
+}
+
+#idDiv.blockDiv{
+    background-color: aqua
+}
+
+div#idDiv.blockDiv{
+    background-color: fuchsia
+}
